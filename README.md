@@ -1,7 +1,7 @@
-# # CrptoSpoor - for Cryptocurrency Maniacs  
+# # CryptoSpoor - for Cryptocurrency Maniacs  
 
 ## <a href='https://eager-lalande-1060a0.netlify.app/' target='_blank'>LIVE DEMO</a> ##
-CrptoSpoor gives you all the information about the crypto market. Some of the main features are : 
+CryptoSpoor gives you all the information about the crypto market. Some of the main features are : 
 - Top Cryptocurrencies and Latest News
 - Detailed information of each cryptocurrency including the price chart with different time frames
 - Crypto Exchanges
